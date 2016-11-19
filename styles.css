@@ -1,0 +1,45 @@
+
+html{
+  background-color: rgba(177, 21, 183, 0.28);
+    font-family: 'Cinzel Decorative', cursive;
+    background-image: url(images/200_s.gif);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+@font-face{
+    font-family: 'Halo';
+    src: url('fonts/Halo.ttf')format('ttf');
+}
+a{
+    font-size: 30px;
+    font-family: "Halo";
+}
+.hello{
+    color: rgba(33, 161, 172, 0.74)
+}
+.h{
+    color: rgba(255, 0, 0, 0.53)
+}
+.he{
+    color: rgba(255, 177, 0, 0.67)
+}
+.hel{
+    color: rgba(229, 247, 12, 0.57)
+}
+.hell{
+    color: rgba(3, 253, 70, 0.65) ; background-color: rgba(95, 248, 201, 0.42)
+}
+.bkg{
+    background-color:rgba(115, 132, 230, 0.37)
+    display: incline-block;    
+}
+.waddles{
+    display: block;
+}
+.spacing{
+    margin: 30px;
+}
+div{
+    border: 5px solid rgba(30, 255, 186, 0.49);
+    margin: 30px;    
+}
